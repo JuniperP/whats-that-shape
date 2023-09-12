@@ -1,6 +1,10 @@
 # [What's That Shape?](https://github.com/shupik123/whats-that-shape/)
 A neural network to figure out whether a shape is a circle, square, or triangle.
 
+- **THIS PROJECT IS NO LONGER MAINTAINED**
+- **This was a project from 9th grade that was my first experience with neural networks. There are no intentions to maintain this project.**
+ 
+
 ![Circle](https://github.com/shupik123/whats-that-shape/blob/master/shapes/train/circle/drawing(1).png)
 ![Square](https://github.com/shupik123/whats-that-shape/blob/master/shapes/train/square/drawing(1).png)
 ![Triangle](https://github.com/shupik123/whats-that-shape/blob/master/shapes/train/triangle/drawing(1).png)
