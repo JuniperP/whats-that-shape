@@ -4,6 +4,7 @@ A neural network to figure out whether a shape is a circle, square, or triangle.
 - **THIS PROJECT IS NO LONGER MAINTAINED**
 - **This was a project from 9th grade that was my first experience with neural networks. There are no intentions to maintain this project.**
  
+This project is based on a [tutorial](https://towardsdatascience.com/a-beginners-tutorial-on-building-an-ai-image-classifier-using-pytorch-6f85cb69cba7) by Alexander Wu.
 
 ![Circle](https://github.com/shupik123/whats-that-shape/blob/master/shapes/train/circle/drawing(1).png)
 ![Square](https://github.com/shupik123/whats-that-shape/blob/master/shapes/train/square/drawing(1).png)
